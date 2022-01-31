@@ -1,0 +1,12 @@
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\bin\Debug\net6.0\FAL.deps.json
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\bin\Debug\net6.0\FAL.dll
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\bin\Debug\net6.0\ref\FAL.dll
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\bin\Debug\net6.0\FAL.pdb
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\obj\Debug\net6.0\FAL.csproj.AssemblyReference.cache
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\obj\Debug\net6.0\FAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\obj\Debug\net6.0\FAL.AssemblyInfoInputs.cache
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\obj\Debug\net6.0\FAL.AssemblyInfo.cs
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\obj\Debug\net6.0\FAL.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\obj\Debug\net6.0\FAL.dll
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\obj\Debug\net6.0\ref\FAL.dll
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\FAL\obj\Debug\net6.0\FAL.pdb

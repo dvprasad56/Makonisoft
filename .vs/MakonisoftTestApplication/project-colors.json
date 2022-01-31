@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5882cad9-15b4-46ae-a2fb-53e032ddcdfd": {
+      "ProjectGuid": "5882cad9-15b4-46ae-a2fb-53e032ddcdfd",
+      "DisplayName": "BAL",
+      "ColorIndex": 0
+    },
+    "b0460dab-a38b-4014-9f80-3fde59cab53d": {
+      "ProjectGuid": "b0460dab-a38b-4014-9f80-3fde59cab53d",
+      "DisplayName": "FAL",
+      "ColorIndex": 1
+    },
+    "d330da49-bd20-4b38-865a-3287be71f9c5": {
+      "ProjectGuid": "d330da49-bd20-4b38-865a-3287be71f9c5",
+      "DisplayName": "MakonisoftTestApplication",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

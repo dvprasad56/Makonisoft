@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BAL/1.0.0": {
+        "dependencies": {
+          "FAL": "1.0.0"
+        },
+        "runtime": {
+          "BAL.dll": {}
+        }
+      },
+      "FAL/1.0.0": {
+        "runtime": {
+          "FAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
