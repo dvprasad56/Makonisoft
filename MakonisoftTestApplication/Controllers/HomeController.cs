@@ -16,7 +16,7 @@ namespace MakonisoftTestApplication.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return RedirectToAction("Employee");
         }
 
         public IActionResult Privacy()

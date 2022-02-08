@@ -29,3 +29,4 @@ C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\MakonisoftTestApplicati
 C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\MakonisoftTestApplication\obj\Debug\net6.0\ref\MakonisoftTestApplication.dll
 C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\MakonisoftTestApplication\obj\Debug\net6.0\MakonisoftTestApplication.pdb
 C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\MakonisoftTestApplication\obj\Debug\net6.0\MakonisoftTestApplication.genruntimeconfig.cache
+C:\Users\Ganesh\Documents\Test\MakonisoftTestApplication\MakonisoftTestApplication\bin\Debug\net6.0\log.json

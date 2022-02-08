@@ -1,14 +1,19 @@
-﻿namespace FAL
+﻿using System.Text.Json;
+
+namespace FAL
 {
     public class EmployeeDAL
     {
         public bool SaveEmployeeData(string firstName, string lastName)
         {
-            using (StreamWriter w = File.AppendText("log.txt"))
-            { 
-                w.WriteLine("First Name : " + firstName + "\n");
-                w.WriteLine("Last Name : " + lastName);
-            }
+            var filePath = Directory.GetCurrentDirectory() + "\\log.json";
+            Employee employee = new Employee
+            {
+                FirstName = firstName,
+                LastName = lastName
+            };
+            string json = JsonSerializer.Serialize(employee);
+            File.WriteAllText(filePath, json);
             return true;
         }
     }
